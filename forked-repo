@@ -1,4 +1,4 @@
-curl https://api.github.com/repos/anhhducnguyen/mcino-Introduction-to-Git-and-GitHub
+$ curl https://api.github.com/repos/anhhducnguyen/mcino-Introduction-to-Git-and-GitHub
 
 {
   "id": 1174862970,
